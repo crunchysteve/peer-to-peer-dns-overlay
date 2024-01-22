@@ -1,7 +1,7 @@
 # A Whitepaper Proposing Peer To Peer Hashtables Having a DNS Overlay
 
-An analysis or peer to peer addressing, proposing a human readable p2p DNS layer over the hashtable, and how jump past web 3 directly to web 4, 
-using the oldest idea on the internet, DNS.
+A whitepaper to propose a human readable p2pDNS layer over a peer-to-peer hashtable, to jump past web 3 directly to web 4, using the oldest idea 
+on the internet, DNS.
 
 ## Premise
 The idea is to seed the concept of a "Personal Domain Name" and, generally personal DNS (PDNS), into the developer community, with the view to 
