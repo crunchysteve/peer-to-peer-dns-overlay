@@ -41,5 +41,5 @@ principals behind my ideas. Being only an Arduino hobyist, I know only some basi
 self-paced, but I also have 27 years experience with the internet, generally. I have run servers, managed media storage/retrieval systems and
 understand the principles of DNS to a small system manager level. I have a passionate commitment to internet decentralisation and security, I
 oppose the current tendency of the world towards digital feudalism and I'm no "blockchain bro." I'm 62, retired from a 3 decade career as an
-audio producer in radio and know how to organise a small project. Feel free, if inspired to, to pull request your code ideas, or mods to this
+audio producer in radio and know how to organise a small project. Feel free, if inspired, to pull request your code ideas, or mods to this
 whitepaper.
