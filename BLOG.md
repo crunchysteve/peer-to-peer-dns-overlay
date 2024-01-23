@@ -29,7 +29,7 @@ patch. Gun.js is an example of a database tool that is ofline-first and distribu
 infrastructure, but a quick google reveals other graphDBs in more systems design grade languages. I'm not talking about peer-to-peer being an
 applications layer, I'm talking about it being network systemic - using UDP and/or TCP/IP at the network level, as an infrastructure protocol. 
 Still back-compatible, sure, but every device becomes its own server, and every peer can request anything from any peer it has the public key 
-for. And any user can find their new friend or colleague by a handle that looks like...
+for and user permissions to access. Any user can also find their new friend or colleague by a handle that looks like...
 
 ```pttps://crunchysteve.randomly.chosen.human.words.here``` or ```pttps://crunchysteve.actually.chose.this.handle```
 
