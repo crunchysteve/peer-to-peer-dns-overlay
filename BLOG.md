@@ -1,7 +1,8 @@
 # WHY - WHERE - HOW - WHAT - WHEN
-#### *Short articles on making P2P as accessible as web 1 was.*
+#### Short articles on making P2P as accessible as web 1 was.
 
 <hr />
+
 ## 2024-01-23_1339 - Oh, And One More Thing
 
 This blog, being part of a repo, can be forked, that fork editted, then pull-requested back. If I like your contribution...
@@ -12,7 +13,9 @@ make potential/future users part of the design team. Code will only be accepted 
 a better and much safer place. Leave the world better than you found it when you go is my goal.
 
 <hr />
+
 ## 2024-01-23_1246 - Too Many Platforms, No Real Solutions
+
 I2P is not really operable with IPFS. IPFS isn't as operable with the conventional network as the hype suggests. Just like domain names are 
 easier to remember than IP numbers, this idea I'm proposing, an offline-first, distrubuted DNS, capable of hosting any, random domain name 
 as a human-readable handle that *points to* the underlying secure userhash, the unique gibberish, as I like to call it.
