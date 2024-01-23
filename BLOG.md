@@ -2,6 +2,16 @@
 #### *Short articles on making P2P as accessible as web 1 was.*
 
 <hr />
+## 2024-01-23_1339 - Oh, And One More Thing
+
+This blog, being part of a repo, can be forked, that fork editted, then pull-requested back. If I like your contribution...
+
+Pull approved! So, even if you can't code at the system level, hell, I'm an Arduino hack, I can't code much beyond making clicks and bleeps 
+come out of a 328p chip, you can still contribute conceptually, Like I'm attempting to here. This idea is a democratic approach, aiming to 
+make potential/future users part of the design team. Code will only be accepted under an MIT licence. This is how I want to make the world 
+a better and much safer place. Leave the world better than you found it when you go is my goal.
+
+<hr />
 ## 2024-01-23_1246 - Too Many Platforms, No Real Solutions
 I2P is not really operable with IPFS. IPFS isn't as operable with the conventional network as the hype suggests. Just like domain names are 
 easier to remember than IP numbers, this idea I'm proposing, an offline-first, distrubuted DNS, capable of hosting any, random domain name 
