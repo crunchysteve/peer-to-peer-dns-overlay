@@ -27,10 +27,10 @@ conflict is unlikely to occur.
 By using a dictionary lookup for selecting random words, based on choosing 3 to six, 3 letter to 6 letter words, probably leaves 500,000 possible
 words from wiktionary's more than 700,000 english words. This gives 500,000 to the 3rd power plus 500,000 to the 4th power plus 500,000 to the 
 5th power plus 500,000 to the 6th power PDN combinations, or 1.25 x 10^17 + 6.25 x 10^22 + 3.125 x 10^28 + 1.5625 x 10^34 which is greater than 
-1.562503125006 x 10^34 possibilities. 1.929 x 10^24 possible domain names for every human on the planet. With a this hiding a 128, 256, whatever 
-higher bit count hashtable makes uniquness and security built-in whill simplifying accessibility for communicating addresses to others. The PDN
+1.562503125006 x 10^34 possibilities. 1.929 x 10^24 possible domain names for every human on the planet. With this hiding a 128, 256, whatever 
+higher bit count hashtable makes uniquness and security built-in while simplifying accessibility for communicating addresses to others. The PDN
 becomes the address, the hash becomes the key to the locked door. How humans actually work and live, overlaps no longer become a problem, just
-a brief glitch as the system offers and alternative, should it have detected a conflict.
+a brief glitch as the system offers an alternative, should it have detected a conflict.
 
 ## Aims
 The aim of this whitepaper is to 
