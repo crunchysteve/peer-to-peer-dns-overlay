@@ -21,7 +21,7 @@ Or, I might ask this app to verify no conflict or preexistance regarding a chose
 
 ```crunchysteve.amateur.engineer.and.guitar.player```
 
-From this chosen domain, it would send out a search for potential conflict over the DHS network. Considering it contains my handle, as well,
+From this chosen domain, it would send out a search for potential conflict over the DHT. Considering it contains my handle, as well,
 conflict is unlikely to occur.
 
 By using a dictionary lookup for selecting random words, based on choosing 3 to six, 3 letter to 6 letter words, probably leaves 500,000 possible
