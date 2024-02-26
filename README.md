@@ -56,7 +56,7 @@ individual-to-group interactions.
 
 ## About the Author, Crunchysteve
 I have grander ideas than my skills but a white-hot focus on the principles of those structures, as well as being a reader of the technical 
-principals behind my ideas. Being only an Arduino hobyist, I know only some basic C/C++ but am embarked on learning it more formally, if
+principals behind my ideas. Being only an Arduino hobbyist, I know only some basic C/C++ but am embarked on learning it more formally, if
 self-paced, but I also have 27 years experience with the internet, generally. I have run servers, managed media storage/retrieval systems and
 understand the principles of DNS to a small system manager level. I have a passionate commitment to internet decentralisation and security, I
 oppose the current tendency of the world towards digital feudalism and I'm no "blockchain bro." I'm 62, retired from a 3 decade career as an
