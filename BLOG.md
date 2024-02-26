@@ -3,9 +3,8 @@
 
 <hr />
 
-## 2024-02-26_1339 - Demonstrating the Vision a Little Clearer with a Picture, I've added a mockup screenshot of the idea of a 
-non-registrant Peer-To-Peer, Personal Domain Name System to the whitepaper. It's an 
-
+## 2024-02-26_1339 - Demonstrating the Vision a Little Clearer with a Picture
+I've added a mockup screenshot of the idea of a non-registrant Peer-To-Peer, Personal Domain Name System to the whitepaper. It's an 
 idealisation of the hard work that simple ideas often require, but a picture is worth 1111101000 words. &smile;
 ![whatTheWorldCouldLookLike](https://github.com/crunchysteve/peer-to-peer-dns-overlay/assets/46626696/c36357ad-0033-448d-8ee8-f42bd38c7129)
 
