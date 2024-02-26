@@ -38,7 +38,7 @@ a brief glitch as the system offers an alternative, should it have detected a co
 
 ## Aims
 The aim of this whitepaper is to 
- - inspire the development of the necessary protocols and overlays to hide complexx peer-to-peer hash addresses from
+ - inspire the development of the necessary protocols and overlays to hide complex peer-to-peer hash addresses from
 the end user, making peer-to-peer networks more accessible and as easy to use as web1 was.
  - create a relatively malleable model for creation and conflict resolution for PDNs and the PDNS that allows forms like,
    - using a PDN with or without a user handle as a subdomain (eg word.people.bag.puddle or fred.word.people.bag.puddle)
