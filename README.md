@@ -17,7 +17,11 @@ Initiating a social conection to me on such a PDN might be via,
 
 ```pttps://crunchysteve.pluck.city.horse.fiddle```
 
-Or, I might ask this app to verify no conflict or preexistance regarding a chosen domain like,
+![whatTheWorldCouldLookLike](https://github.com/crunchysteve/peer-to-peer-dns-overlay/assets/46626696/c36357ad-0033-448d-8ee8-f42bd38c7129)
+"What The world could look like," Crunchysteve.
+
+
+Or, I might ask this app to attempt verification of no conflict or preexistance regarding a chosen domain like,
 
 ```crunchysteve.amateur.engineer.and.guitar.player```
 
