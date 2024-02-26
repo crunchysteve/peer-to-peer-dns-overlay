@@ -11,11 +11,11 @@ hides our IP4 and IP6 network addresses behind registered domain names.
 Such PDNS names might consist of a profile handle (in my case, crunchysteve, for example) and 3 to 6 words of 3 to 6 characters length, chosen at 
 random from wiktionary (for example), such that my Personal Domain Name (PDN) might be generated randomly by such an app as, 
 
-```crunchysteve.pluck.city.horse.fiddle```
+```crunchysteve.apple.bicycle.thought.rabbit```
 
 Initiating a social conection to me on such a PDN might be via,
 
-```pttps://crunchysteve.pluck.city.horse.fiddle```
+```pttps://crunchysteve.apple.bicycle.thought.rabbit```
 
 ![whatTheWorldCouldLookLike](https://github.com/crunchysteve/peer-to-peer-dns-overlay/assets/46626696/c36357ad-0033-448d-8ee8-f42bd38c7129)
 "What The world could look like," Crunchysteve.
