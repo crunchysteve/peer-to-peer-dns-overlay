@@ -3,7 +3,7 @@
 
 <hr />
 
-## 2024-02-26_1339 - Deomonstrating the Vision a Little Clearer with a Picture
+## 2024-02-26_1339 - Demonstrating the Vision a Little Clearer with a Picture
 
 I've added a mockup screenshot of the idea of a non-registrant Peer-To-Peer, Personal Domain Name System to the whitepaper. It's an 
 idealisation of the hard work that simple ideas often require, but a picture is worth 1111101000 words. &smaile;
