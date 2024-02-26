@@ -3,6 +3,27 @@
 
 <hr />
 
+## 2024-02-26_1339 - Deomonstrating the Vision a Little Clearer with a Picture
+
+I've added a mockup screenshot of the idea of a non-registrant Peer-To-Peer, Personal Domain Name System to the whitepaper. It's an 
+idealisation of the hard work that simple ideas often require, but a picture is worth 1111101000 words. &smaile;
+![whatTheWorldCouldLookLike](https://github.com/crunchysteve/peer-to-peer-dns-overlay/assets/46626696/c36357ad-0033-448d-8ee8-f42bd38c7129)
+
+I dream of it being compatible with all the socket level hashtable protocols, be they torrents or ipfs, kademlia or chord. I suspect the best 
+place to start for the network infrastructure would be with libp2p, as this is available in a range of programming languages, but notably 
+C/C++. The idea would be to create the necessary hooks into the dht to present a dns entry attached to a given user's hash. Thus, the first
+connection to a new contact, via their personal domain name, might take some time, even until their next time on the network, but once a
+connection is made, that connection is cached at each end and connections will be as quick as any client/sever connection after that.
+
+If you have any ideas for the more nuts and bolts of this, open an issue to ask to join the project and we can discuss your proposal. This 
+will always be a FOSS project while I remain maintainer so, if that appeals to you, throw your ideas in the ring. We can discuss specifics in 
+more private channels, if you wish, but start with generalities with an issue.
+
+Cheers,
+"Crunchy"
+
+<hr />
+
 ## 2024-01-23_1339 - Oh, And One More Thing
 
 This blog, being part of a repo, can be forked, that fork editted, then pull-requested back. If I like your contribution...
