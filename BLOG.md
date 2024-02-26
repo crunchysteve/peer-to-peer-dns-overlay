@@ -17,7 +17,9 @@ connection is made, that connection is cached at each end and connections will b
 
 If you have any ideas for the more nuts and bolts of this, open an issue to ask to join the project and we can discuss your proposal. This 
 will always be a FOSS project while I remain maintainer so, if that appeals to you, throw your ideas in the ring. We can discuss specifics in 
-more private channels, if you wish, but start with generalities with an issue.
+more private channels, if you wish, but start with generalities with an issue. I see my role as a "producer", such as in the context of radio 
+production - an "art director" if film analogies make more sense to you. I can organise, moderate and inspire. I am also humble enough to
+stand aside if somebody better suited to the task comes along. (For example, better understanding of the actual code than me.)
 
 Cheers,
 "Crunchy"
